@@ -62,7 +62,7 @@ function zapiszDoPliku(){
         if (err) {
             console.error('Błąd podczas zapisywania do pliku:', err)
         } else {
-            console.log('Dane zostały zapisane do pliku config.json')
+            console.log('Dane zostały zapisane do pliku zadania.json')
         }
     });
 }
