@@ -1,5 +1,8 @@
 {
-    "name":"TaskManager",
+    "name": "TaskManager",
     "version": "1.0.0",
-    "main": "index.js"
+    "main": "index.js",
+    "dependencies": {
+        "readline-sync": "^1.4.10"
+    }
 }
